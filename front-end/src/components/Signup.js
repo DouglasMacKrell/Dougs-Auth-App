@@ -9,7 +9,7 @@ export default function Signup() {
       <>
         <Card>
           <Card.Body>
-            <h2 classsName="text-center mb-4">Sign Up</h2>
+            <h2 className="text-center mb-4">Sign Up</h2>
             <Form>
               <Form.Group id="email">
                 <Form.Label>Email</Form.Label>
